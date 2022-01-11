@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doktor randevusu",
+      "day": "11 Ocak 2022",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Arkadaşlarla buluşma",
+      "day": "15 Ocak 2022",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Markete gidilecek",
+      "day": "15 Ocak 2022",
+      "reminder": false
+    }
+  ]
+}
